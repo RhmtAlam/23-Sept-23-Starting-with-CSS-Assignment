@@ -1,0 +1,27 @@
+.p1{
+    color: red;
+}
+
+.p2{
+    font-size: 30px;
+}
+
+.p3{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.p4{
+    text-decoration: overline;
+}
+
+.p5{
+    text-align: center;
+}
+
+.p6{
+    text-transform: capitalize;
+}
+
+.p7{
+    text-decoration: underline;
+}
